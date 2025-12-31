@@ -527,4 +527,4 @@ if family exists and not setupCompleted:
 | gamification_configured | GamificationSetupScreen | interval, mode, rewardCount |
 | permission_granted | PermissionScreen | - |
 | permission_denied | PermissionScreen | - |
-| onboarding_completed | PermissionScreen | setupMode, memberCount, gamificationEnabled |
+| onboarding_completed | PermissionScreen | setupMode, memberCount, gamificationEnabled |      
